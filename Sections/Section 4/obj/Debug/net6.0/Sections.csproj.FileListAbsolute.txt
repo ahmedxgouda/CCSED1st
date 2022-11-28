@@ -1,0 +1,15 @@
+E:\Programming\Sections\Sections\bin\Debug\net6.0\Sections.exe
+E:\Programming\Sections\Sections\bin\Debug\net6.0\Sections.deps.json
+E:\Programming\Sections\Sections\bin\Debug\net6.0\Sections.runtimeconfig.json
+E:\Programming\Sections\Sections\bin\Debug\net6.0\Sections.dll
+E:\Programming\Sections\Sections\bin\Debug\net6.0\Sections.pdb
+E:\Programming\Sections\Sections\obj\Debug\net6.0\Sections.csproj.AssemblyReference.cache
+E:\Programming\Sections\Sections\obj\Debug\net6.0\Sections.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Sections\Sections\obj\Debug\net6.0\Sections.AssemblyInfoInputs.cache
+E:\Programming\Sections\Sections\obj\Debug\net6.0\Sections.AssemblyInfo.cs
+E:\Programming\Sections\Sections\obj\Debug\net6.0\Sections.csproj.CoreCompileInputs.cache
+E:\Programming\Sections\Sections\obj\Debug\net6.0\Sections.dll
+E:\Programming\Sections\Sections\obj\Debug\net6.0\refint\Sections.dll
+E:\Programming\Sections\Sections\obj\Debug\net6.0\Sections.pdb
+E:\Programming\Sections\Sections\obj\Debug\net6.0\Sections.genruntimeconfig.cache
+E:\Programming\Sections\Sections\obj\Debug\net6.0\ref\Sections.dll

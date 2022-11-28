@@ -1,0 +1,15 @@
+/media/ahmed/SSD/Programming/Sections/Tasks/Task4/bin/Debug/net6.0/Task4
+/media/ahmed/SSD/Programming/Sections/Tasks/Task4/bin/Debug/net6.0/Task4.deps.json
+/media/ahmed/SSD/Programming/Sections/Tasks/Task4/bin/Debug/net6.0/Task4.runtimeconfig.json
+/media/ahmed/SSD/Programming/Sections/Tasks/Task4/bin/Debug/net6.0/Task4.dll
+/media/ahmed/SSD/Programming/Sections/Tasks/Task4/bin/Debug/net6.0/ref/Task4.dll
+/media/ahmed/SSD/Programming/Sections/Tasks/Task4/bin/Debug/net6.0/Task4.pdb
+/media/ahmed/SSD/Programming/Sections/Tasks/Task4/obj/Debug/net6.0/Task4.csproj.AssemblyReference.cache
+/media/ahmed/SSD/Programming/Sections/Tasks/Task4/obj/Debug/net6.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/media/ahmed/SSD/Programming/Sections/Tasks/Task4/obj/Debug/net6.0/Task4.AssemblyInfoInputs.cache
+/media/ahmed/SSD/Programming/Sections/Tasks/Task4/obj/Debug/net6.0/Task4.AssemblyInfo.cs
+/media/ahmed/SSD/Programming/Sections/Tasks/Task4/obj/Debug/net6.0/Task4.csproj.CoreCompileInputs.cache
+/media/ahmed/SSD/Programming/Sections/Tasks/Task4/obj/Debug/net6.0/Task4.dll
+/media/ahmed/SSD/Programming/Sections/Tasks/Task4/obj/Debug/net6.0/ref/Task4.dll
+/media/ahmed/SSD/Programming/Sections/Tasks/Task4/obj/Debug/net6.0/Task4.pdb
+/media/ahmed/SSD/Programming/Sections/Tasks/Task4/obj/Debug/net6.0/Task4.genruntimeconfig.cache

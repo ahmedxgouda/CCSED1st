@@ -1,0 +1,15 @@
+/media/ahmed/SSD/Programming/Sections/Section 3/bin/Debug/net6.0/Section 3
+/media/ahmed/SSD/Programming/Sections/Section 3/bin/Debug/net6.0/Section 3.deps.json
+/media/ahmed/SSD/Programming/Sections/Section 3/bin/Debug/net6.0/Section 3.runtimeconfig.json
+/media/ahmed/SSD/Programming/Sections/Section 3/bin/Debug/net6.0/Section 3.dll
+/media/ahmed/SSD/Programming/Sections/Section 3/bin/Debug/net6.0/ref/Section 3.dll
+/media/ahmed/SSD/Programming/Sections/Section 3/bin/Debug/net6.0/Section 3.pdb
+/media/ahmed/SSD/Programming/Sections/Section 3/obj/Debug/net6.0/Section 3.csproj.AssemblyReference.cache
+/media/ahmed/SSD/Programming/Sections/Section 3/obj/Debug/net6.0/Section 3.GeneratedMSBuildEditorConfig.editorconfig
+/media/ahmed/SSD/Programming/Sections/Section 3/obj/Debug/net6.0/Section 3.AssemblyInfoInputs.cache
+/media/ahmed/SSD/Programming/Sections/Section 3/obj/Debug/net6.0/Section 3.AssemblyInfo.cs
+/media/ahmed/SSD/Programming/Sections/Section 3/obj/Debug/net6.0/Section 3.csproj.CoreCompileInputs.cache
+/media/ahmed/SSD/Programming/Sections/Section 3/obj/Debug/net6.0/Section 3.dll
+/media/ahmed/SSD/Programming/Sections/Section 3/obj/Debug/net6.0/ref/Section 3.dll
+/media/ahmed/SSD/Programming/Sections/Section 3/obj/Debug/net6.0/Section 3.pdb
+/media/ahmed/SSD/Programming/Sections/Section 3/obj/Debug/net6.0/Section 3.genruntimeconfig.cache
