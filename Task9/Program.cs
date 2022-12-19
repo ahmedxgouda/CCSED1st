@@ -2,9 +2,9 @@
 {
     struct Students
     {
-        int id;
-        string name;
-        string gender;
+        public int id;
+        public string name;
+        public string gender;
         Courses[] StudentCourses;
         public Students(int _id, string _name, string _gender, Courses[] courses)
         {
@@ -12,21 +12,25 @@
             name = _name;
             gender = _gender;
             StudentCourses = courses;
-            Console.WriteLine("----Student data----");
-            Console.WriteLine($"Name: {name}, ID: {id}, Gender: {gender}");
-            Console.WriteLine("----Courses----");
+        }
+        public Courses this[int i]
+        {
+            get
+            {
+                return StudentCourses[i];
+            }
         }
     }
     struct Courses
     {
         public int code;
         public string name; 
-        public char degree;
+        public char degree;        
         public Courses(int _code, string _name, char _degree)
         {
             code = _code;
             name = _name;
-            degree = _degree;   
+            degree = _degree;
         }
         
     }
@@ -47,16 +51,18 @@
             };
 
             Students student1 = new Students(10444000, "Ahmed Mossad", "Male", courses1);
-            Print(courses1);
             Students student2 = new Students(10234500, "Mohamed Ali", "Male", courses2);
-            Print(courses2);
+            Print(courses1.Length, student1);            
+            Print(courses2.Length, student2);            
         }
-        public static void Print(Courses[] courses)
+        public static void Print(int length, Students student)
         {
-            for (int i = 0; i < courses.Length; i++)
+            Console.WriteLine("----Student data----");
+            Console.WriteLine($"Name: {student.name}, ID: {student.id}, Gender: {student.gender}");
+            Console.WriteLine("----Courses----");
+            for (int i = 0; i < length; i++)
             {
-                Console.WriteLine($"----Course {i + 1}----");
-                Console.WriteLine($"Name: {courses[i].name}, code: {courses[i].code}, degree: {courses[i].degree}");
+                Console.WriteLine($"----Course {i + 1}----:\nName: {student[i].name}, code: {student[i].code}, degree: {student[i].degree}");
             }
         }
     }
