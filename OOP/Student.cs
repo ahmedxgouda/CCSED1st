@@ -2,13 +2,13 @@ namespace OOP
 {
     class Student : Person
     {
-        public void Study()
+        public static void Study()
         {
             Console.WriteLine("I'm studying");
         }
         public void ShowAge()
         {
-            Console.WriteLine("My age is {0}", this.GetAge());
+            Console.WriteLine("My age is {0}", age);
         }
         public override void Greet()
         {

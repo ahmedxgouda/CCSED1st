@@ -1,22 +1,25 @@
 ﻿namespace OOP
 {
-    class StudentProffesorTest
+    static class StudentProffesorTest
     {
-        static void Main(string [] args)
+        static void Main()
         {
-            Person man = new Person();
+            // person
+            Person man = new();
             man.Greet();
             Console.WriteLine();
-            Student student = new Student();
+            // student
+            Student student = new();
             student.Greet();
             student.SetAge(15);
             student.ShowAge();
-            student.Study();
+            Student.Study();
             Console.WriteLine();
-            Professor prof = new Professor();
+            // professor
+            Professor prof = new();
             prof.Greet();
             prof.SetAge(50);
-            prof.Explain();
+            Professor.Explain();
         }
-    }    
+    }
 }

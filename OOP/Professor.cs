@@ -2,7 +2,7 @@ namespace OOP
 {
     class Professor : Person
     {
-        public void Explain()
+        public static void Explain()
         {
             Console.WriteLine("I'm explaining");
         }
